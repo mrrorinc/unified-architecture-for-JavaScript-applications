@@ -7,7 +7,7 @@ architecting and developing scalabale JavaScript applications.
 
 There are many ways to arhitect an appliation as well as to implement a feature
 in particular. It is important that as a team we decide on particular structures
-and patterns to unify and standardize development across teams. in an effort to improve:
+and patterns to unify and standardize development across teams. In an effort to improve:
 
 - efficiency and productivity team wide
 - product and team scalability
@@ -51,5 +51,5 @@ four high level goals:
 
 ## Shared Code Space
 
-- TODO: guide lines on source repositories for shared modules
-- TODO: guide lines on publishing packages and plugins as shared modules
+- TODO: guidelines on source repositories for shared modules
+- TODO: guidelines on publishing packages and plugins as shared modules
