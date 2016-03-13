@@ -21,31 +21,30 @@ four high level goals:
 
 ## Recommended Architectural Structure
 
-- TODO: create architectural anatomy map
-- TODO: create brief terminology reference for map
-- TODO: create example boiler plate project for recommended folder structure (also used for style guide)
+**- TODO: create architectural anatomy map**
+**- TODO: create brief terminology reference for map**
+**- TODO: create example boiler plate project for recommended folder structure (also used for style guide)**
 
 
 
 
 ## Code Style Guide
 
-- TODO: create quick ES6 cheat sheet
-- TODO: create example boiler plate project with component templates (Service, View, etc)
+**- TODO: create quick ES6 cheat sheet**
+**- TODO: create example boiler plate project with component templates (Service, View, etc)**
 - TODO: example projects may be created in as many stack versions as needed (react, react-native, angular, etc)
-- TODO: research and recommend linters for ES6/7
+**- TODO: research and recommend linters for ES6/7**
 
 
 
 
 ## Documentation Requirements
 
-- TODO: recommendations on documenting project setup
-- TODO: recommendations on documenting work-flow (running, debugging, building, releasing)
-- TODO: recommendations on documenting infrastructure involved
-- TODO: recommendations on documenting development environment and tools
-- TODO: recommendations on documenting known issues
-- TODO: recommendations on documenting create cheat sheet on requirements and recommendations
+**- TODO: recommendations on documenting project setup**
+**- TODO: recommendations on documenting work-flow (running, debugging, building, releasing)**
+**- TODO: recommendations on documenting infrastructure involved**
+**- TODO: recommendations on documenting development environment and tools**
+**- TODO: recommendations on documenting known issues**
 
 
 
